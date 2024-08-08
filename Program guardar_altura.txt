@@ -1,0 +1,7 @@
+Program guardar_altura
+Start
+// Programa que solicita al usuario su altura
+Declare Float altura
+Display "Ingrese su altura"
+Imput altura
+End
